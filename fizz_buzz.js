@@ -11,7 +11,7 @@ for (let index = 0; index < numbers.length; index+=1) {
     }else if(num % 5 === 0){
         console.log("buzz")
     }else{
-        console.log("This number is not divisible be 3 or 5")
+        console.log("This number is not divisible by 3 or 5")
     }
 }
 
